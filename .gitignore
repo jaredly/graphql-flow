@@ -1,0 +1,4 @@
+node_modules
+*.graphql
+introspection-query.json
+parsed.json

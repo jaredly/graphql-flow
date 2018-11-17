@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@babel/generator": "^7.1.6",
+    "@babel/types": "^7.1.6",
+    "graphql": "^14.0.2"
+  }
+}
