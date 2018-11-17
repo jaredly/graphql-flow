@@ -1,5 +1,14 @@
 #!/usr/bin/env node
 
+/**
+
+TODO
+for unions, do a tagged union type.
+I think that's pretty much all I'm missing here.
+
+*/
+
+
 const g = require('graphql')
 const fs = require('fs')
 
